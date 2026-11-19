@@ -1,0 +1,6 @@
+{
+  "name": "PingLink",
+  "description": "Telegram Real Mention Link System for automated background group member notifications, campaign link generation, and delivery analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
